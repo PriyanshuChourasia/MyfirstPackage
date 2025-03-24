@@ -1,0 +1,23 @@
+{
+  "name": "firstpackage",
+  "version": "0.0.1",
+  "description": "This is my first npm package \n My name is Priyanshu Chourasia",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "first",
+    "test",
+    "more to come"
+  ],
+  "author": "Priyanshu Chourasia",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
+}
