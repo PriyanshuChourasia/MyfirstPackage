@@ -1,6 +1,6 @@
 {
   "name": "firstpackage",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is my first npm package \n My name is Priyanshu Chourasia",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
