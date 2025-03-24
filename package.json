@@ -1,10 +1,14 @@
 {
   "name": "firstpackage",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "This is my first npm package \n My name is Priyanshu Chourasia",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/PriyanshuChourasia/MyfirstPackage",
+  "repository": {
+    "url": "git+https://github.com/PriyanshuChourasia/MyfirstPackage.git"
+  },
   "scripts": {
     "build": "tsup"
   },
